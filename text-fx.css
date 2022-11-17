@@ -1,0 +1,7 @@
+.text {
+    width: 300px;
+    border: 2px solid brown;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+}
